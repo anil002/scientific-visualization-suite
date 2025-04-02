@@ -7,3 +7,4 @@ scipy
 plotly
 joypy
 wordcloud
+kaleido
