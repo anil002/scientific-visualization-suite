@@ -8,3 +8,4 @@ plotly
 joypy
 wordcloud
 kaleido
+openpyxl
